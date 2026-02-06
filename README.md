@@ -31,7 +31,7 @@ Power BI
 ## 🔁 Version Control & Collaboration
 Git · GitHub
 
-## 🧩 Core Competencies
+## 🧩 Soft Skills
 Problem Solving · Analytical & Statistical Thinking · Communication · Team Collaboration · Adaptability · Continuous Learning
 
 # 
