@@ -1,6 +1,46 @@
-# 💫 About Me:
-👨‍💻 About Me<br><br>I’m Bikram, an AI/ML Engineer focused on designing and deploying LLM-powered systems and end-to-end ML pipelines. I have hands-on experience building RAG architectures, agentic workflows, and production-ready GenAI applications.<br><br>My work spans Python, LangChain/LangGraph, vector databases, prompt engineering, and LLM evaluation, with deployments using Docker, CI/CD pipelines, and AWS (EC2). I emphasize scalability, reliability, observability, and maintainable system design in ML applications.<br><br><br><br>🛠️ Technical Skills<br>Programming Languages<br><br>Python, SQL<br><br>Machine Learning & Data Science<br><br>Data Cleaning & Preprocessing, Exploratory Data Analysis (EDA), Feature Engineering, Data Visualization, Supervised & Unsupervised Learning, Deep Learning<br><br>MLOps & Deployment<br><br>MLflow, DVC, Jenkins (CI/CD), DagsHub, Docker, Evidently AI, AWS EC2, Model Monitoring, Experiment Tracking<br><br>NLP & Generative AI<br><br>Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), Vector Databases, Embeddings, Prompt Engineering, OpenAI APIs, Hugging Face<br><br>Libraries & Frameworks<br><br>NumPy, Pandas, Matplotlib, Scikit-learn, TensorFlow, Keras, LangChain, LangGraph, FastAPI, Streamlit<br><br>Data & Visualization Tools<br><br>Power BI<br><br>Version Control & Collaboration<br><br>Git, GitHub<br><br>Core Competencies<br><br>Problem Solving, Analytical & Statistical Thinking, Clear Communication, Team Collaboration, Adaptability, Continuous Learning<br><br><br><br>💼 Looking for Opportunities<br><br>I’m actively seeking entry-level or internship roles in AI/ML, MLOps, or Data Science, where I can contribute to building and deploying real-world AI systems.<br><br>If you’re hiring, collaborating, or open to referrals, I’d really appreciate connecting 🙏
+# 💫 About Me
 
+# 👨‍💻 Data Scientist | AI/ML Engineer | GenAI | MLOps
+
+I’m Bikram Maity, aspiring Data Scientist & AI/ML Engineer focused on designing and deploying LLM-powered systems and end-to-end ML pipelines.
+I have hands-on experience building RAG architectures, agentic workflows, and production-ready GenAI applications.
+
+My work spans Python, LangChain/LangGraph, vector databases, prompt engineering, and LLM evaluation, with deployments using Docker, CI/CD pipelines, and AWS (EC2).
+I prioritize scalability, reliability, observability, and clean system design in ML applications.
+
+# 🛠️ Technical Skills
+
+## 💻 Programming Languages
+Python, SQL
+
+## 📊 Machine Learning & Data Science
+Data Cleaning & Preprocessing · EDA · Feature Engineering · Data Visualization · Supervised & Unsupervised Learning · Deep Learning
+
+## ⚙️ MLOps & Deployment
+MLflow · DVC · Jenkins (CI/CD) · DagsHub · Docker · Evidently AI · AWS EC2 · Model Monitoring · Experiment Tracking
+
+## 🧠 NLP & Generative AI
+LLMs · RAG · Vector Databases · Embeddings · Prompt Engineering · OpenAI APIs · Hugging Face
+
+## 📦 Libraries & Frameworks
+NumPy · Pandas · Matplotlib · Scikit-learn · TensorFlow · Keras · LangChain · LangGraph · FastAPI · Streamlit
+
+## 📈 Data & Visualization Tools
+Power BI
+
+## 🔁 Version Control & Collaboration
+Git · GitHub
+
+## 🧩 Core Competencies
+Problem Solving · Analytical & Statistical Thinking · Communication · Team Collaboration · Adaptability · Continuous Learning
+
+# 
+# 💼 Looking for Opportunities
+
+🚀 Actively seeking entry-level or internship roles in AI/ML, MLOps, or Data Science
+🤝 Open to collaboration, referrals, and impactful projects
+
+If you’re hiring or know of relevant opportunities, I’d love to connect 🙏
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/bikram-maity-a6850b38a/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bikrammaity736@gmail.com) 
 
