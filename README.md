@@ -1,16 +1,17 @@
-## Hi there 👋
+# 💫 About Me:
+👨‍💻 About Me<br><br>I’m Bikram, an AI/ML Engineer focused on designing and deploying LLM-powered systems and end-to-end ML pipelines. I have hands-on experience building RAG architectures, agentic workflows, and production-ready GenAI applications.<br><br>My work spans Python, LangChain/LangGraph, vector databases, prompt engineering, and LLM evaluation, with deployments using Docker, CI/CD pipelines, and AWS (EC2). I emphasize scalability, reliability, observability, and maintainable system design in ML applications.<br><br><br><br>🛠️ Technical Skills<br>Programming Languages<br><br>Python, SQL<br><br>Machine Learning & Data Science<br><br>Data Cleaning & Preprocessing, Exploratory Data Analysis (EDA), Feature Engineering, Data Visualization, Supervised & Unsupervised Learning, Deep Learning<br><br>MLOps & Deployment<br><br>MLflow, DVC, Jenkins (CI/CD), DagsHub, Docker, Evidently AI, AWS EC2, Model Monitoring, Experiment Tracking<br><br>NLP & Generative AI<br><br>Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), Vector Databases, Embeddings, Prompt Engineering, OpenAI APIs, Hugging Face<br><br>Libraries & Frameworks<br><br>NumPy, Pandas, Matplotlib, Scikit-learn, TensorFlow, Keras, LangChain, LangGraph, FastAPI, Streamlit<br><br>Data & Visualization Tools<br><br>Power BI<br><br>Version Control & Collaboration<br><br>Git, GitHub<br><br>Core Competencies<br><br>Problem Solving, Analytical & Statistical Thinking, Clear Communication, Team Collaboration, Adaptability, Continuous Learning<br><br><br><br>💼 Looking for Opportunities<br><br>I’m actively seeking entry-level or internship roles in AI/ML, MLOps, or Data Science, where I can contribute to building and deploying real-world AI systems.<br><br>If you’re hiring, collaborating, or open to referrals, I’d really appreciate connecting 🙏
 
-<!--
-**bikram2github/bikram2github** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/bikram-maity-a6850b38a/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bikrammaity736@gmail.com) 
 
-Here are some ideas to get you started:
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=bikram2github&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=bikram2github&theme=shadow_blue&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=bikram2github&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+[![](https://visitcount.itsvg.in/api?id=bikram2github&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
