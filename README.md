@@ -1,6 +1,6 @@
 # 💫 About Me
 
-# 👨‍💻 Data Scientist | AI/ML Engineer | GenAI | MLOps
+# 👨‍💻 Data Scientist | AI/ML Engineer | GenAI Engineer | MLOps Engineer
 
 I’m Bikram Maity, aspiring Data Scientist & AI/ML Engineer focused on designing and deploying LLM-powered systems and end-to-end ML pipelines.
 I have hands-on experience building RAG architectures, agentic workflows, and production-ready GenAI applications.
